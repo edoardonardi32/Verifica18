@@ -1,0 +1,14 @@
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\bin\Debug\net7.0\Verifica18.exe
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\bin\Debug\net7.0\Verifica18.deps.json
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\bin\Debug\net7.0\Verifica18.runtimeconfig.json
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\bin\Debug\net7.0\Verifica18.dll
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\bin\Debug\net7.0\Verifica18.pdb
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\Verifica18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\Verifica18.AssemblyInfoInputs.cache
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\Verifica18.AssemblyInfo.cs
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\Verifica18.csproj.CoreCompileInputs.cache
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\Verifica18.dll
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\refint\Verifica18.dll
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\Verifica18.pdb
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\Verifica18.genruntimeconfig.cache
+C:\Users\nardi.edoardo\Desktop\Verifica18\Verifica18\Verifica18\obj\Debug\net7.0\ref\Verifica18.dll
